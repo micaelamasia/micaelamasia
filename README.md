@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Micaela</h1>
 <h3 align="center">A Data Science student 🤯📕 at Bocconi University passionate about AI 🚀 and cooking 🍕</h3>
 
-- 🔭 I’m currently working at **Avanade, a Microsoft Join Venture, as an AI Software Engineer**
+- 🔭 I’m currently working at **Avanade, a Microsoft Joint Venture, as an AI Software Engineer**
 
 - 🌱 I’m currently learning **how to use Microsoft Azure to deploy different models**
 
